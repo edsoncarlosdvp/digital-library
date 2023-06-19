@@ -1,0 +1,28 @@
+<mat-card>
+  <form [formGroup]="form">
+    <span class="form-title">Cadastar Obra</span>
+    <mat-form-field>
+      <input matInput placeholder="Nome" formControlName="name" />
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Autor" formControlName="author" />
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Descrição" formControlName="description" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Categoria</mat-label>
+      <mat-select formControlName="category" placeholder="Selecione uma">
+        <mat-option [value]="null">Não selecionado</mat-option>
+        <mat-option [value]="amor">Amor</mat-option>
+        <mat-option [value]="comedia">Comédia</mat-option>
+        <mat-option [value]="drama">Drama</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <!-- <input type="hidden" ng-model="record.usersId" value="{{form.registerDate}}" ng-init="record.usersId=user.userId"/> -->
+    <div class="button-container">
+      <button mat-button color="primary" (click)="onSubmit()">Salvar</button>
+      <button mat-button color="warn" (click)="onCancel()">Cancelar</button>
+    </div>
+  </form>
+</mat-card>

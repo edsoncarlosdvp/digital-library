@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "description": "A obra-prima de Machado de Assis é narrada pelo protagonista, Santiago, um homem de meia-idade que é conhecido como Dom Casmurro, devido à sua teimosia. No romance, ele relembra o seu percurso desde a infância, quando era chamado de Bentinho e se apaixonou por Capitu, a amiguinha que morava na casa do lado. Enquanto assistimos à história de amor que vão desenvolvendo ao longo dos anos, somos levados a refletir sobre temáticas atemporais como as relações humanas, o ciúme e a traição. Tudo é contado a partir da perspectiva de Dom Casmurro e, por vezes, chegamos a duvidar da sua palavra. Assim, a obra deixa uma grande questão no ar e tem sido objeto de inúmeras interpretações por leitores e estudiosos de várias épocas.",
+    "imageUrl": "https://cdn.culturagenial.com/imagens/dom-casmurro-3-cke.jpg",
+    "dateRegister": "0001-01-01T00:00:00",
+    "dateUpdatedDb": "0001-01-01T00:00:00"
+  },
+  {
+    "id": 3,
+    "name": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "description": "Publicado inicialmente num folhetim, durante o ano de 1880, o romance machadiano veio representar um ponto de viragem na sua carreira literária. O narrador da obra é o protagonista, Brás Cubas, um homem que já está morto e resolve contar a sua história. Como ele não se encontra mais entre os vivos, assume uma posição privilegiada para falar a verdade, sem nenhum constrangimento, e tecer críticas à sociedade contemporânea.",
+    "imageUrl": "https://cdn.culturagenial.com/imagens/memorias-postumas-de-bras-cubas-1-cke.jpg",
+    "dateRegister": "2023-05-16T14:03:14.1986978",
+    "dateUpdatedDb": "2023-05-16T14:03:14.1984745"
+  },
+  {
+    "id": 4,
+    "name": "Helena",
+    "author": "Machado",
+    "description": "Helena faz parte da primeira fase literária de Machado de Assis, na qual ainda eram evidentes as influências do Romantismo. Trata-se um romance urbano, passado no Rio de Janeiro do século XIX, que traça um retrato daquela sociedade.Quando o Conselheiro Vale morre, seu testamento anuncia à família que ele tinha uma filha ilegítima: Helena, uma jovem que nasceu fora do seu casamento. Como último desejo, ele pede que a irmã e o filho, Estácio, recebam a herdeira em seu seio familiar. No entanto, apesar da sua doçura, a moça esconde um grande segredo e se envolve num amor proibido.",
+    "imageUrl": "https://cdn.culturagenial.com/imagens/helena-machado-de-assis-cke.jpg",
+    "dateRegister": "2023-05-16T14:04:30.9194616",
+    "dateUpdatedDb": "2023-05-16T14:06:49.8640966"
+  }
+]

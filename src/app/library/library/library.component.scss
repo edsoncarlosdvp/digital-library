@@ -1,0 +1,28 @@
+.container-card {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: antiquewhite;
+}
+
+mat-card {
+  width: 325px;
+  margin: 2rem auto;
+}
+
+.form-title {
+  display: block;
+  margin: 0;
+  font: 500 20px Roboto, 'Helvetica Neue', sans-serif;
+  letter-spacing: normal;
+  margin-bottom: 1.5rem;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: end;
+}
