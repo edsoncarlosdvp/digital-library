@@ -18,7 +18,7 @@ export class LibraryService {
     );
   }
 
-  onSave(record: ILibrary) {
+  onSave(record: Partial<ILibrary>) {
     return this.httpClient.post<ILibrary>(this.API, record).pipe(
       first(),
       tap((data) => data),
