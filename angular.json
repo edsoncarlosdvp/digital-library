@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "crud-angular"
+  "defaultProject": "crud-angular",
+  "cli": {
+    "analytics": "cad93358-2fc4-4720-b414-23673164f6a8"
+  }
 }
