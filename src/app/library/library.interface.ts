@@ -1,4 +1,6 @@
 export interface ILibrary {
+  _id: string;
+  category: string;
   name: string;
   author: string;
   description: string;
